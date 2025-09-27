@@ -1,2 +1,0 @@
-# projeto
-curso em video
